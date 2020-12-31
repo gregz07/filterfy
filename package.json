@@ -1,0 +1,24 @@
+{
+  "name": "filterfy",
+  "version": "1.0.0",
+  "description": "Helper function for a better experience in your Sequelize queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregz07/filterfy.git"
+  },
+  "keywords": [
+    "sequelize",
+    "query",
+    "where"
+  ],
+  "author": "gregz07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregz07/filterfy/issues"
+  },
+  "homepage": "https://github.com/gregz07/filterfy#readme"
+}
